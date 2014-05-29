@@ -4,6 +4,13 @@ public String firstMethod(){
 return "first method";
 }
 
+public String secondMethod(){
+return "first method";
+}
+
+
+
+
 
 public static void main(String args[]){
 
