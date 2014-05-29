@@ -1,0 +1,15 @@
+class test{
+
+public String firstMethod(){
+return "first method";
+}
+
+
+public static void main(String args[]){
+
+test t = new test();
+t.firstMethod();
+
+}
+
+}
